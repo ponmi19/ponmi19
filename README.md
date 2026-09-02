@@ -38,11 +38,11 @@ I am a results-driven Full Stack Developer passionate about building scalable we
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponmi19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponmi19&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
+### 📊 GitHub Stats
+
+![Thatthada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponmi19&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponmi19&layout=compact&theme=tokyonight)
+
 
 ### 📫 Connect with Me
 
